@@ -1,0 +1,67 @@
+  .banner {
+    width: 100%;
+    height: 100vh;
+    background: url('https://elements-resized.envatousercontent.com/envato-dam-assets-production/EVA/TRX/ab/bc/5b/33/a6/v1_E10/E101OY08.jpg?w=1600&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=f7ac2da43fe135cf3d5dd31fc5e2638097c2b8fb49ab5b64302b65de6ed711d6') 
+                no-repeat center/cover;
+    position: relative;
+}
+ .list {
+    position: absolute;
+    top: 20px; 
+     right: 20px;
+     color: black;
+   justify-content: space-between;
+ 
+ }
+ .list ul li{
+    display: inline-block;
+
+margin:26px;
+
+
+ }
+  .logo{
+color: black;
+    position: absolute;
+    top: 20px; 
+left :20px;
+display: inline-block; 
+
+
+}
+
+
+
+
+
+.btn button {
+    display: block; /* Button ko block element banane ke liye */
+     margin: 30px auto; /* Left aur Right se center karne ke liye */
+     padding: 30px ;
+    font-size: 16px;
+    border-radius:100%;
+   
+} 
+
+
+
+.des{
+justify-content:center;
+color: white;
+    position: absolute;
+    top: 50vh; 
+left :95vh;
+display: inline-block;
+
+color: black;
+
+text-align: center;
+top:30vh;
+
+}
+
+
+    
+
+
+

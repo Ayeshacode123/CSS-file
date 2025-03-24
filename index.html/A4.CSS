@@ -1,0 +1,40 @@
+.p {
+    border: 2px solid black; 
+    display: inline-block;
+}
+
+
+.a {
+    height: 100px; 
+    width: 650px;
+    background-color: #ed1b24;
+}
+
+.b {
+    height: 200px; 
+    width: 650px;
+    background-color: #3c5aa3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+
+.c {
+    height: 100px; 
+    width: 650px;
+    background-color: #ed1b24;
+}
+
+
+#circle {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border-radius: 50%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+       

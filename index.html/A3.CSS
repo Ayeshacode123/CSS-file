@@ -1,0 +1,30 @@
+.p{
+    border: 2px solid black;
+    display: inline-block;
+    
+    }
+    
+    .a{
+    height: 150px;
+    width: 600px;
+    background-color:#fef200 ;
+    
+    
+    }
+    
+    .b{
+        height: 150px;
+        width: 600px;
+        background-color:#01a553;
+        
+        
+        }
+        
+        .c{
+            height:150px;
+            width: 600px;
+            background-color:#ed1b24 ;
+            
+            
+            }
+            
